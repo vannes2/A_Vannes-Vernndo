@@ -82,3 +82,19 @@
 //do {
  //console.log("This will be printed once, even though y < 5 is false");
 //} while (y < 5);
+
+//loop
+//for (let i = 0; i < 6; i++) {
+//    console.log("Da ba dee da ba daa");
+//}
+
+//loop
+//for (let i = 25; i >= 0; i -= 5) {
+//    console.log(i);
+//}
+
+//loop
+//const people = ["Scooby", "Velma", "Daphne", "Shaggy", "Fred"];
+//for (let i = 0; i < people.length; i++) {
+//    console.log(people[i].toUpperCase());
+//}
